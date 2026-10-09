@@ -1052,3 +1052,4 @@ def _finalize_purchase(chat_id, user_id, state_data):
         f"💰 موجودی جدید: {user['pt']} PT",
         back_keyboard()
     )
+#پایان فایل

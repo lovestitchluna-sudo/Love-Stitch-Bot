@@ -16,7 +16,7 @@ from rubibot.types import (
 # SETTINGS
 # =========================================================
 
-TOKEN = os.environ["BOT_TOKEN"]
+TOKEN = os.environ["BOT_TOKEN2"]
 ADMIN_ID = "u0KNMhm07ba2376f545d81e75453c8c9"
 
 API_URL = f"https://botapi.rubika.ir/v3/{TOKEN}"
